@@ -1,5 +1,7 @@
 # netlify-ci-demo
 
+![Run tests](https://github.com/Agusnez/netlify-ci-demo/workflows/Run%20tests/badge.svg?branch=master)
+
 ## Project setup
 ```
 npm install
